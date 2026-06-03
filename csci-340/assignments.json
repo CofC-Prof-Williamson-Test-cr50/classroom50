@@ -1,4 +1,16 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "hello",
+      "name": "Hello",
+      "template": {
+        "owner": "CofC-Prof-Williamson-Test-cr50",
+        "repo": "init-template",
+        "branch": "main"
+      },
+      "mode": "individual",
+      "autograder": "default"
+    }
+  ]
 }
