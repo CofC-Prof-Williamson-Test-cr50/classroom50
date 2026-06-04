@@ -1,4 +1,21 @@
 {
   "schema": "classroom50/scores/v1",
-  "submissions": []
+  "submissions": [
+    {
+      "schema": "classroom50/result/v1",
+      "classroom": "csci-340",
+      "assignment": "hello",
+      "usernames": [
+        "test-student-for-tuck-williamson"
+      ],
+      "submission": "submit/2026-06-04T03-18-45Z-0d42106",
+      "commit": "https://github.com/CofC-Prof-Williamson-Test-cr50/csci-340-hello-test-student-for-tuck-williamson/commit/0d4210605996a65d5b3871f74f684116e0c99321",
+      "release": "https://github.com/CofC-Prof-Williamson-Test-cr50/csci-340-hello-test-student-for-tuck-williamson/releases/tag/submit%2F2026-06-04T03-18-45Z-0d42106",
+      "review": "https://github.com/CofC-Prof-Williamson-Test-cr50/csci-340-hello-test-student-for-tuck-williamson/commit/0d4210605996a65d5b3871f74f684116e0c99321",
+      "datetime": "2026-06-04T03:18:56Z",
+      "score": 0,
+      "max-score": 0,
+      "tests": []
+    }
+  ]
 }
